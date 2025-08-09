@@ -1,2 +1,2 @@
 # Project-M.O.R.G.A.N.
-Mechanized Operational Response and Guidance Artificial Network
+Multi-domain Operational Response and Guidance Artificial Network
